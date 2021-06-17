@@ -1,0 +1,1 @@
+file='Assistant.gif', format='gif -index %i'% (i)
