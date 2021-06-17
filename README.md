@@ -69,7 +69,7 @@ Rest modules are predefined in python 3+ versions.
 <br>
 <hr>
 <br>
-
+<!--
 ### SAIRA AI DEMO<br>
 <p align="center">
 	
@@ -78,3 +78,4 @@ Rest modules are predefined in python 3+ versions.
 </p>
 <br>
 <hr>
+-->
